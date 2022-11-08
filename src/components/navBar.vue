@@ -1,7 +1,7 @@
 <template>
     <header class="header d-flex justify-content-between  align-items-center " :class="{'scrolled-nav':scrolledNav}"> 
          
-       <a class="logo text-decoration-none" href=""><img src="../assets/image 1.svg" alt=""></a>
+       <a class="logo text-decoration-none" href=""><img src="https://res.cloudinary.com/di6dtlbpj/image/upload/v1667942079/image_1_w7ipbp.svg" alt=""></a>
        
         <nav class="navbar d-flex">
             <ul v-show="!mobile" class="navigation">

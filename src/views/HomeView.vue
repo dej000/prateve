@@ -34,7 +34,7 @@
 
         <div class="hero-img ">
          
-          <img src="../assets/Money-bag-with-pile-coins-and-bills-cash-on-transparent-background-PNG 1.svg" alt="">
+          <img src="https://res.cloudinary.com/di6dtlbpj/image/upload/v1667942212/Money-bag-with-pile-coins-and-bills-cash-on-transparent-background-PNG_1_g7utjj.svg" alt="">
           <svg width="610" height="616" viewBox="0 0 610 616" fill="none" xmlns="http://www.w3.org/2000/svg">
             <circle cx="370" cy="246" r="370" fill="#D2E6F3"/>
             </svg>
@@ -187,7 +187,7 @@
                 </div>
 
                   <div class="col-md-3 item text">
-                     <img src="../assets/2 (1) 2.svg" alt="">
+                     <img src="https://res.cloudinary.com/di6dtlbpj/image/upload/v1667942148/2_1_2_rcovaz.svg" alt="">
                         <p class="text-white">No. 24, Oluwatimilehin Avenue,<br>
                       Grace Close, Ikoyi, Lagos State.</p>
                       <p>prateveco@yahoo.com</p>
