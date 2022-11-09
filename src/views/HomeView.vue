@@ -65,7 +65,7 @@
           </div>
         </div>
         <div class="col col-sm-6 col-12" >
-          <img  class="img-fluid img-thumbnail" src="../assets/krakenimages-Y5bvRlcCx8k-unsplash 2.svg" alt="">
+          <img  class="img-fluid img-thumbnail" src="https://res.cloudinary.com/di6dtlbpj/image/upload/v1668027329/krakenimages-Y5bvRlcCx8k-unsplash_2_donetg.svg" alt="">
         </div> 
       </div> 
       
@@ -86,7 +86,7 @@
    
         </div>
         <div class="col col-sm-6 col-12" >
-          <img  class="img-fluid img-thumbnail" src="../assets/krakenimages-Y5bvRlcCx8k-unsplash 1.svg" alt="">
+          <img  class="img-fluid img-thumbnail" src="https://res.cloudinary.com/di6dtlbpj/image/upload/v1668027310/krakenimages-Y5bvRlcCx8k-unsplash_1_xr8fv3.svg" alt="">
         </div> 
   
     </div> 
@@ -104,7 +104,7 @@
           </div>
         </div>
         <div class="col col-sm-6 col-12" >
-          <img  class="img-fluid img-thumbnail" src="../assets/krakenimages-Y5bvRlcCx8k-unsplash 3.svg" alt="">
+          <img  class="img-fluid img-thumbnail" src="https://res.cloudinary.com/di6dtlbpj/image/upload/v1668027311/krakenimages-Y5bvRlcCx8k-unsplash_3_z8doyk.svg" alt="">
         </div> 
       </div> 
      </section>
