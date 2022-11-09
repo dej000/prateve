@@ -92,7 +92,7 @@
 <style  scoped>
 
 .header{
-    padding: 10px 10%;
+    padding: 0px 10%;
     z-index: 999;
     transition: .5s ease all;
     position: fixed;
@@ -102,7 +102,7 @@
     right: 0;
     box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
     backdrop-filter: blur(5px);
-    background-color: rgba(252, 243, 243, -2);
+    background-color: rgba(255, 255, 255);
     font-family: 'poppins';
     
 }
