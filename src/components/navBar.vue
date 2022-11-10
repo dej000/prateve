@@ -22,7 +22,7 @@
             </ul>    
         </nav>
        <div  v-show="!mobile">
-        <button type="button" class="btn btn-primary">get started  <i class="fa fa-arrow-right" aria-hidden="true"></i></button>
+        <button type="button" class="btn btn-primary">Get started  <i class="fa fa-arrow-right" aria-hidden="true"></i></button>
        </div>
         
        <div class="icon">

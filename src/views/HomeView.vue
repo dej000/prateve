@@ -5,12 +5,12 @@
 <template>
   <div class="home   vh-100" id="home">
    
-      <section class="hero  vh-100 container  ">
+      <section class="hero  vh-100   ">
         
       
-        <div class="hero-text  d-flex justify-content-center flex-column ">
+        <div class="hero-text container d-flex justify-content-center flex-column  align-items-center ">
      
-        <div>
+        <div class="d-flex justify-content-center flex-column align-items-center ">
           
           <h2>Make <span> your money</span> <br> work for you...</h2>
 
@@ -19,31 +19,25 @@
 
          
         </div>
-        <div class="hero-btn d-flex ">
+         <div class="hero-btn d-flex  ">
           <button class="bt1 p-2" ><a class="text-decoration-none" href="">Get Started  <i class="fa fa-arrow-right" aria-hidden="true"></i></a></button>
           <button><a class="text-decoration-none" href="">Sign in   <i class="fa fa-arrow-right" aria-hidden="true"></i></a></button>
         </div>
          
-        <div class="icons d-flex p-4">
+        <div class="icons d-flex justify-content-center align-items-center  p-4">
           <p><i class="fa fa-check-circle" aria-hidden="true" style="color:green"></i> No Collateral</p>
           <p> <i class="fa fa-check-circle" aria-hidden="true" style="color:green"></i> No Charges</p>
           <p><i class="fa fa-check-circle" aria-hidden="true" style="color:green"></i> No Collateral</p>
         </div>
          
         </div>
+        <svg width="610" height="616" viewBox="0 0 610 616" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="370" cy="246" r="370" fill="#D2E6F3"/>
+          </svg>
 
     
          
-          <svg width="610" height="616" viewBox="0 0 610 616" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <circle cx="370" cy="246" r="370" fill="#D2E6F3"/>
-            </svg>
-           
-       
-
-      
-          
-      
-      </section>
+         </section>
       
      <section class=" info2 d-flex flex-column p-5 vh-50 ">
         <div >
@@ -61,11 +55,11 @@
             <p >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ultricies tristique mollis lacus ultrices feugiat curabitur tempus arcu, est. Risus mauris ultrices tellus ante purus tortor sem sit purus. Non tempus libero cras sed congue mi. Leo arcu sed maecenas aliquet ut quam.</p>
           </div>
           <div>
-          <button class="mb-3 bg-info text-white rounded">Learn More</button>
+          <button class="mb-3 bg-info text-white round">Learn More</button>
           </div>
         </div>
         <div class="col col-sm-6 col-12" >
-          <img  class="img-fluid img-thumbnail" src="https://res.cloudinary.com/di6dtlbpj/image/upload/v1668027329/krakenimages-Y5bvRlcCx8k-unsplash_2_donetg.svg" alt="">
+          <img  class="img-fluid thumbnail1" src="https://res.cloudinary.com/di6dtlbpj/image/upload/v1668027329/krakenimages-Y5bvRlcCx8k-unsplash_2_donetg.svg" alt="">
         </div> 
       </div> 
       
@@ -81,12 +75,12 @@
           </div>
          
         <div >
-          <button class="mb-3  bg-info text-white rounded">Learn More</button>
+          <button class="mb-3  bg-info text-white round">Learn More</button>
         </div>
    
         </div>
         <div class="col col-sm-6 col-12" >
-          <img  class="img-fluid img-thumbnail" src="https://res.cloudinary.com/di6dtlbpj/image/upload/v1668027310/krakenimages-Y5bvRlcCx8k-unsplash_1_xr8fv3.svg" alt="">
+          <img  class="img-fluid thumbnail1" src="https://res.cloudinary.com/di6dtlbpj/image/upload/v1668027310/krakenimages-Y5bvRlcCx8k-unsplash_1_xr8fv3.svg" alt="">
         </div> 
   
     </div> 
@@ -100,11 +94,11 @@
             <p >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ultricies tristique mollis lacus ultrices feugiat curabitur tempus arcu, est. Risus mauris ultrices tellus ante purus tortor sem sit purus. Non tempus libero cras sed congue mi. Leo arcu sed maecenas aliquet ut quam.</p>
           </div>
           <div>
-          <button class="mb-3 bg-info text-white rounded">Learn More</button>
+          <button class="mb-3 bg-info text-white round">Learn More</button>
           </div>
         </div>
         <div class="col col-sm-6 col-12" >
-          <img  class="img-fluid img-thumbnail" src="https://res.cloudinary.com/di6dtlbpj/image/upload/v1668027311/krakenimages-Y5bvRlcCx8k-unsplash_3_z8doyk.svg" alt="">
+          <img  class="img-fluid thumbnail" src="https://res.cloudinary.com/di6dtlbpj/image/upload/v1668027311/krakenimages-Y5bvRlcCx8k-unsplash_3_z8doyk.svg" alt="">
         </div> 
       </div> 
      </section>
@@ -112,9 +106,9 @@
 
      <section class=" container d-flex justify-content-center   flex-column  p-3 ">
 
-    <div class=" d-flex info2 flex-column p-5 gap-3 vh-50 rounded" >
+    <div class=" d-flex info2 flex-column p-5 gap-3 vh-50 round" >
       <h3 class="text-white mb-3">Create an Account <br> In Simple Steps...</h3>
-      <div> <button class="bt2 p-2 rounded" ><a class="text-decoration-none" href="">Get Started  <i class="fa fa-arrow-right" aria-hidden="true"></i></a></button></div>
+      <div> <button class="bt2 p-2 round" ><a class="text-decoration-none" href="">Get Started  <i class="fa fa-arrow-right" aria-hidden="true"></i></a></button></div>
      
     </div>
      </section>
@@ -128,8 +122,8 @@
       
       <div>
         <form class="col-sm-12 col-12 " >
-          <input  type="email" name="email" class="text-box p-2 m-3" placeholder="Your Email" required>
-          <button class="bt1 p-2 rounded-2" ><a class="text-decoration-none" href="">Stay up to date  <i class="fa fa-arrow-right" aria-hidden="true"></i></a></button>
+          <input  type="email" name="email" class="text-box p-2 m-3" placeholder="         Enter your email address" required>
+          <button class="bt1 p-2 round" ><a class="text-decoration-none" href="">Stay up to date  <i class="fa fa-arrow-right" aria-hidden="true"></i></a></button>
          
         </form>
        </div>
@@ -222,7 +216,7 @@
       </footer>
   </div>
   
-  
+ 
     
     </div>
 </template>
@@ -245,8 +239,15 @@ h3{
 }
 .home{
  overflow-x: hidden;
-  
     font-family: 'poppins';
+}
+.round{
+  border-radius: 10px;
+}
+.text-box{
+  border-radius: 10px;
+  width: 340px;
+  background: rgba(210, 230, 243, 1);
 }
 .hero {
   display: grid;
@@ -256,9 +257,9 @@ h3{
   background: rgb(176,220,250);
     background: linear-gradient(90deg, rgba(176,220,250,1) 0%, rgba(255,255,255,1) 64%);
     background-image: url(https://res.cloudinary.com/di6dtlbpj/image/upload/v1667942212/Money-bag-with-pile-coins-and-bills-cash-on-transparent-background-PNG_1_g7utjj.svg);
-    background-position: right ;
+    background-position: right bottom ;
     background-repeat: no-repeat;
-    background-size: 600px 430px;
+   
   }
 
 .container{
@@ -301,6 +302,25 @@ h3{
   font-family: 'Buttershine' ;
 
 }
+
+.thumbnail { 
+  border-top: 10px solid rgba(30, 129, 196, 1);
+  border-right: 10px solid rgba(30, 129, 196, 1);
+  border-radius: 10px;
+  max-width: 100%;
+  height: auto;
+   ;
+}
+
+.thumbnail1 { 
+  border-top: 10px solid rgba(30, 129, 196, 1);
+  border-left: 10px solid rgba(30, 129, 196, 1);
+  border-radius: 10px;
+  max-width: 100%;
+  height: auto;
+   ;
+}
+
 .bt2{
   background: rgba(210, 230, 243, 1);
 
@@ -340,10 +360,8 @@ max-width: 500px;
   z-index: 3;
 }
 svg{
- 
- 
-  width: 400px;
-  height: 584px;
+  width: 100%;
+  height: 100%;
   right: 0;
   top: -132px;
   z-index: -1;
