@@ -139,7 +139,7 @@
       <div class="row">
         <div class="col car mb-5">
           <div class="card " style="width: 18rem;">
-            <img src="../assets/alexander-grey-8lnbXtxFGZw-unsplash 1.svg" class="card-img-top" alt="...">
+            <img src="https://res.cloudinary.com/di6dtlbpj/image/upload/v1668028879/alexander-grey-8lnbXtxFGZw-unsplash_1_vwqodg.png" class="card-img-top" alt="...">
             <div class="card-body info3">
               <h3 class="card-title text-white">Spend money wisely </h3>
               <p class="card-text text-white ">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rutrum diam, turpis sed vulputate et, donec est eget gravida. Pellentesque nulla interdum tristique massa praesent. Felis, senectus pellentesque cursus ultrices. Ut curabitur et eu cursus habitant lectus egestas in.</p>
@@ -150,7 +150,7 @@
 
         <div class="col car  mb-5">
           <div class="card" style="width: 18rem;">
-            <img src="../assets/alexander-grey-8lnbXtxFGZw-unsplash 1.svg" class="card-img-top" alt="...">
+            <img src="https://res.cloudinary.com/di6dtlbpj/image/upload/v1668028879/alexander-grey-8lnbXtxFGZw-unsplash_1_vwqodg.png" class="card-img-top" alt="...">
             <div class="card-body info3">
               <h3 class="card-title text-white">Spend money wisely </h3>
               <p class="card-text text-white ">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rutrum diam, turpis sed vulputate et, donec est eget gravida. Pellentesque nulla interdum tristique massa praesent. Felis, senectus pellentesque cursus ultrices. Ut curabitur et eu cursus habitant lectus egestas in.</p>
@@ -161,7 +161,7 @@
 
         <div class="col car  mb-5">
           <div class="card" style="width: 18rem;">
-            <img src="../assets/alexander-grey-8lnbXtxFGZw-unsplash 1.svg" class="card-img-top" alt="...">
+            <img src="https://res.cloudinary.com/di6dtlbpj/image/upload/v1668028879/alexander-grey-8lnbXtxFGZw-unsplash_1_vwqodg.png" class="card-img-top" alt="...">
             <div class="card-body info3">
               <h3 class="card-title text-white">Spend money wisely </h3>
               <p class="card-text text-white ">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rutrum diam, turpis sed vulputate et, donec est eget gravida. Pellentesque nulla interdum tristique massa praesent. Felis, senectus pellentesque cursus ultrices. Ut curabitur et eu cursus habitant lectus egestas in.</p>
